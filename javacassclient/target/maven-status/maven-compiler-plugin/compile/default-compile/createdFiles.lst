@@ -1,0 +1,5 @@
+com\java\cassandra\javacassclient\CassandraClientApp.class
+com\java\cassandra\javacassclient\App.class
+com\java\cassandra\javacassclient\CassandraConenctor.class
+com\java\cassandra\repository\StudentRepository.class
+com\java\cassandra\domain\Student.class
